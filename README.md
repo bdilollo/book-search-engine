@@ -1,4 +1,4 @@
-# book-search-engine
+# Book Search Engine
 
 [![](https://img.shields.io/static/v1?label=License&message=MIT&color=<yellow>)](https://opensource.org/licenses/MIT)
 
